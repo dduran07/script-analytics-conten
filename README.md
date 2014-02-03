@@ -1,4 +1,4 @@
-script-analytics-conten
+script-analytics-content
 =======================
 
 Scrip para medir contenido con Google Analytics
